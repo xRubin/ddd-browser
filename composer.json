@@ -1,5 +1,5 @@
 {
-  "name": "rubin/ddd-i18n",
+  "name": "rubin/ddd-browser",
   "description": "DDD browser classes",
   "keywords": ["rubin", "ddd", "domain", "browser"],
   "type": "library",
